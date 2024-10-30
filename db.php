@@ -2,7 +2,7 @@
 $user = "root";
 $password = "root";
 $host = "localhost";
-$db = "enigma"; // your database/база данных
+$db = "basic-reg"; // your database/база данных
 
 // Создание соединения
 $conn = new mysqli($host, $user, $password, $db);
